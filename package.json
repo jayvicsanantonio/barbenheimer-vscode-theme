@@ -7,7 +7,7 @@
   "license": "SEE LICENSE IN LICENSE.md",
   "repository": {
     "type": "git",
-    "url": "https://github.com/jpsanantonio/barbenheimer-vscode-theme.git"
+    "url": "https://github.com/jayvicsanantonio/barbenheimer-vscode-theme"
   },
   "publisher": "jayvicsanantonio",
   "keywords": [
@@ -29,9 +29,9 @@
   "contributes": {
     "themes": [
       {
-        "label": "Barbenheimer",
+        "label": "Barbenheimer Bunker",
         "uiTheme": "vs-dark",
-        "path": "./themes/Barbenheimer-color-theme.json"
+        "path": "./themes/barbenheimer-bunker-theme.json"
       }
     ]
   }
