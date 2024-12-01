@@ -3,7 +3,7 @@
   "displayName": "Barbenheimer",
   "description": "Barbenheimer is a VS Code theme inspired by the Internet phenomenon of the same name. It combines the pink and playful aesthetics of Barbie with the dark and dramatic tones of Oppenheimer.",
   "icon": "images/barbenheimer-icon.png",
-  "version": "0.3.0",
+  "version": "0.4.0",
   "license": "SEE LICENSE IN LICENSE.md",
   "repository": {
     "type": "git",
@@ -12,8 +12,12 @@
   "publisher": "jayvicsanantonio",
   "keywords": [
     "Theme",
+    "Light Theme",
     "Dark Theme",
     "Barbenheimer",
+    "Barbenheimer Dreamhouse",
+    "Barbenheimer Bunker",
+    "Barbenheimer Nuclear Sunrise",
     "Barbie",
     "Oppenheimer",
     "Pink",
@@ -37,6 +41,11 @@
         "label": "Barbenheimer Dreamhouse",
         "uiTheme": "vs",
         "path": "./themes/barbenheimer-dreamhouse-theme.json"
+      },
+      {
+        "label": "Barbenheimer Nuclear Sunrise",
+        "uiTheme": "vs-dark",
+        "path": "./themes/barbenheimer-nuclear-sunrise-theme.json"
       }
     ]
   }
