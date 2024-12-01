@@ -3,7 +3,7 @@
   "displayName": "Barbenheimer",
   "description": "Barbenheimer is a VS Code theme inspired by the Internet phenomenon of the same name. It combines the pink and playful aesthetics of Barbie with the dark and dramatic tones of Oppenheimer.",
   "icon": "images/barbenheimer-icon.png",
-  "version": "0.4.0",
+  "version": "0.4.1",
   "license": "SEE LICENSE IN LICENSE.md",
   "repository": {
     "type": "git",
