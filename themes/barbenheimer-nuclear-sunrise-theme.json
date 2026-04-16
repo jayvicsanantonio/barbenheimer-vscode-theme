@@ -156,7 +156,7 @@
     "textLink.foreground": "#A0C0F0",
     "titleBar.activeBackground": "#0F0F0A",
     "titleBar.activeForeground": "#FF69B4",
-    "titleBar.inactiveBackground": "#2A2A1F",
+    "titleBar.inactiveBackground": "#0F0F0A",
     "titleBar.inactiveForeground": "#EEEEEE",
     "tree.indentGuidesStroke": "#4A4A4066",
     "widget.shadow": "#0F0F0A"
