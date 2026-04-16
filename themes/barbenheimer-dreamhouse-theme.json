@@ -69,7 +69,7 @@
     "editorWhitespace.foreground": "#F9C898",
     "editorWidget.background": "#FFF8F0",
     "editorWidget.border": "#F9C898",
-    "focusBorder": "#F060A0",
+    "focusBorder": "#F060A000",
     "foreground": "#B21F63",
     "gitDecoration.conflictingResourceForeground": "#835A00",
     "gitDecoration.deletedResourceForeground": "#F08080",
