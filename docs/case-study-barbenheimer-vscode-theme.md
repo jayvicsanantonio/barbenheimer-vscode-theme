@@ -48,7 +48,7 @@ Theme validation should include:
 |---|---:|---:|---:|---|
 | Theme file count | 1 | 3 | +2 | git log --stat |
 | Lines per theme | 1905 | 300 | -1605 | wc -l themes/*.json |
-| Version progression | 0.0.9 | 1.1.0 | Stable release | package.json |
+| Version progression | 1.0.0 | 1.1.0 | Minor release | package.json |
 | File size per theme | N/A | 12KB | Optimized | du -sh themes/*.json |
 
 ### Risks & Follow-ups
