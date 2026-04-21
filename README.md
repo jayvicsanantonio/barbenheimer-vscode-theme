@@ -81,7 +81,7 @@ I am using a paid font titled [Dank Mono](https://dank.sh/). [Fira Code](https:/
 
 ## Feedback
 
-If you have any feedback or suggestions, please [open an issue](https://github.com/jpsanantonio/barbenheimer-vscode-theme/issues) or better yet, a [pull request](https://github.com/jpsanantonio/barbenheimer-vscode-theme/pulls). I would love to hear from you!
+If you have any feedback or suggestions, please [open an issue](https://github.com/jayvicsanantonio/barbenheimer-vscode-theme/issues) or better yet, a [pull request](https://github.com/jayvicsanantonio/barbenheimer-vscode-theme/pulls). I would love to hear from you!
 
 ## License
 
