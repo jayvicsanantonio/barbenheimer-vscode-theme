@@ -32,7 +32,7 @@ Dreamhouse is the bright, girly, Barbie-forward variant. It uses a blush pink ed
 | Deep Purple      | `#7E57C2` | Links, tabs, types, functions, syntax accents     |
 | Pink Border      | `#F3B5D6` | Borders, dividers, guides                         |
 
-![Barbenheimer Dreamhouse](images/barbenheimer-dreamhouse.webp)
+![Barbenheimer Dreamhouse](images/barbenheimer-dreamhouse.png)
 
 ### Barbenheimer Bunker
 
@@ -51,7 +51,7 @@ Bunker is the moody dark theme. It keeps the Oppenheimer side grounded with blac
 | Deep Purple        | `#7E57C2`   | Primary button background                  |
 | Cream Text         | `#FCE5D8`   | Button text and hover foreground           |
 
-![Barbenheimer Bunker](images/barbenheimer-bunker.webp)
+![Barbenheimer Bunker](images/barbenheimer-bunker.png)
 
 ### Barbenheimer Nuclear Sunrise
 
@@ -71,7 +71,7 @@ Nuclear Sunrise is the highest-contrast dark theme. It uses near-black backgroun
 | White              | `#FFFFFF`   | Main text and button text                    |
 | Deep Purple        | `#7E57C2`   | Primary button background                    |
 
-![Barbenheimer Nuclear Sunrise](images/barbenheimer-nuclear-sunrise.webp)
+![Barbenheimer Nuclear Sunrise](images/barbenheimer-nuclear-sunrise.png)
 
 ## Accessibility And Contrast
 
